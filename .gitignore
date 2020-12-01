@@ -1,0 +1,6 @@
+/libs/
+/build/
+/out/
+/.gradle/
+/gradle/
+/src/main/generated/**
